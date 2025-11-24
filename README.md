@@ -2,7 +2,7 @@
 
 # 🌌 Welcome to My Universe of Code
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manesh%20Edirisinghe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Performing%20Artist&descSize=16&descAlignY=51"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manesh%20Edirisinghe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer%20|%20Performing%20Artist&descSize=16&descAlignY=51"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Turning+caffeine+into+code+since+2024;🚀+Building+digital+experiences+that+matter;💡+Always+learning%2C+always+evolving)](https://git.io/typing-svg)
 
