@@ -102,29 +102,9 @@ console.log(me.getLifeMotto());
 
 <div align="center">
 
-## 🎮 Wanna Play? Catch the Bug!
+## 🐍 Contribution Snake
+![snake animation](https://raw.githubusercontent.com/ManeshEdirisinghe/ManeshEdirisinghe/output/github-contribution-grid-snake.svg)
 
-<details>
-<summary>🐛 Click to Play Snake Game!</summary>
-<br>
-
-![Snake Game](https://raw.githubusercontent.com/ManeshEdirisinghe/ManeshEdirisinghe/output/github-contribution-grid-snake-dark.svg)
-
-*Watch the snake eat all my contributions!*
-
-</details>
-
-<details>
-<summary>🕹️ GitHub Skyline - My Coding Year in 3D</summary>
-<br>
-
-<a href="https://skyline.github.com/ManeshEdirisinghe/2024">
-<img src="https://img.shields.io/badge/View%20My%202024%20Skyline-Click%20Here-00D9FF?style=for-the-badge&logo=github" alt="GitHub Skyline"/>
-</a>
-
-*A 3D model of my GitHub contributions - download and explore!*
-
-</details>
 
 <details>
 <summary>🎯 Tic-Tac-Toe - Challenge Me!</summary>
