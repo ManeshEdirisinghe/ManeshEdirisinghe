@@ -100,45 +100,9 @@ console.log(me.getLifeMotto());
 
 ---
 
-<div align="center">
-
 ## 🐍 Contribution Snake
 ![snake animation](https://raw.githubusercontent.com/ManeshEdirisinghe/ManeshEdirisinghe/output/github-contribution-grid-snake.svg)
 
-
-<details>
-<summary>🎯 Tic-Tac-Toe - Challenge Me!</summary>
-<br>
-
-```
-     |     |     
-  1  |  2  |  3  
-_____|_____|_____
-     |     |     
-  4  |  5  |  6  
-_____|_____|_____
-     |     |     
-  7  |  8  |  9  
-     |     |     
-
-Choose your move by starring one of my repos! 😄
-```
-
-</details>
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 Random Dev Wisdom
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
----
 
 
 
