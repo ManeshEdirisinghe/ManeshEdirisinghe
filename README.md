@@ -99,6 +99,11 @@ console.log(me.getLifeMotto());
 </div>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app?user=ManeshEdirisinghe&theme=dark&hide_border=true&border_radius=5&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
 
 ## 🐍 Contribution Snake
 ![snake animation](https://raw.githubusercontent.com/ManeshEdirisinghe/ManeshEdirisinghe/output/github-contribution-grid-snake.svg)
