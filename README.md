@@ -83,6 +83,11 @@ console.log(me.getLifeMotto());
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeshEdirisinghe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManeshEdirisinghe&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/> -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app?user=ManeshEdirisinghe&theme=dark&hide_border=true&border_radius=5&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManeshEdirisinghe&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%"/>
 
@@ -90,20 +95,6 @@ console.log(me.getLifeMotto());
 
 ---
 
-
-
-## 🏅 Achievements & Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ManeshEdirisinghe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=ManeshEdirisinghe&theme=dark&hide_border=true&border_radius=5&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
 
 ## 🐍 Contribution Snake
 ![snake animation](https://raw.githubusercontent.com/ManeshEdirisinghe/ManeshEdirisinghe/output/github-contribution-grid-snake.svg)
