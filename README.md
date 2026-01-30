@@ -80,9 +80,8 @@ console.log(me.getLifeMotto());
 ## 📊 GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManeshEdirisinghe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-![Manesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeshEdirisinghe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeshEdirisinghe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManeshEdirisinghe&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/> -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -108,9 +107,9 @@ console.log(me.getLifeMotto());
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manesh-edirisinghe-a39250247)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edirisingheamdhura@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManeshEdirisinghe)
 
 
-<br>
 
 ### 💭 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - Martin Fowler
 
