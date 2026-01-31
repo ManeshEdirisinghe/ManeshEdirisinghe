@@ -80,11 +80,18 @@ console.log(me.getLifeMotto());
 ## 📊 GitHub Analytics
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeshEdirisinghe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Langs"/>
 
+<div align="center">
+  <h3>🏆 My Achievements</h3>
+  <img src="https://github-profile-achievements.vercel.app/?username=ManeshEdirisinghe&theme=dark" alt="Manesh's Achievements" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=ManeshEdirisinghe&theme=dark&hide_border=true&border_radius=5&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
+
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManeshEdirisinghe&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%"/>
 
