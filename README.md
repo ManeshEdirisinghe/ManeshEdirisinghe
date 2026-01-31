@@ -76,16 +76,18 @@ console.log(me.getLifeMotto());
 ---
 
 <div align="center">
-
-## 📊 GitHub Analytics
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeshEdirisinghe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Langs"/>
 
-<div align="center">
-  <h3>🏆 My Achievements</h3>
-  <img src="https://github-profile-achievements.vercel.app/?username=ManeshEdirisinghe&theme=dark" alt="Manesh's Achievements" />
+<br/><br/>
+
+<h3>🏆 My Achievements</h3>
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" title="Quickdraw: Closed an issue/PR within 5 mins" alt="Quickdraw">
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" title="Pull Shark: Merged a Pull Request" alt="Pull Shark">
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="100" title="Pair Extraordinaire: Co-authored a commit" alt="Pair Extraordinaire">
 </div>
 
-## 📊 GitHub Stats
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=ManeshEdirisinghe&theme=dark&hide_border=true&border_radius=5&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
