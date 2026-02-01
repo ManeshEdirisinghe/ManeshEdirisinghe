@@ -79,13 +79,19 @@ console.log(me.getLifeMotto());
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeshEdirisinghe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Langs"/>
 
 <br/><br/>
+ <div align="center">
 
 <h3>🏆 My Achievements</h3>
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" title="Quickdraw: Closed an issue/PR within 5 mins" alt="Quickdraw">
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" title="Pull Shark: Merged a Pull Request" alt="Pull Shark">
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="100" title="Pair Extraordinaire: Co-authored a commit" alt="Pair Extraordinaire">
-</div>
 
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="100" alt="YOLO" title="YOLO: Merged a PR without code review!">
+
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw: Closed an issue/PR quickly">
+
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" alt="Pull Shark" title="Pull Shark: Opened pull requests">
+
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="100" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored a commit">
+
+</div>
 
 ### 📊 GitHub Stats
 
