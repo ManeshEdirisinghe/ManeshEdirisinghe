@@ -81,7 +81,11 @@ console.log(me.getLifeMotto());
 <br/><br/>
  <div align="center">
 
+<div align="center">
+
 <h3>🏆 My Achievements</h3>
+
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="100" alt="Galaxy Brain" title="Galaxy Brain: Answered a discussion">
 
 <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="100" alt="YOLO" title="YOLO: Merged a PR without code review!">
 
