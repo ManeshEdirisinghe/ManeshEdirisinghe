@@ -77,10 +77,6 @@ console.log(me.getLifeMotto());
 
 ---
 
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeshEdirisinghe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Langs"/>
-
-<br/><br/>
 
 
  <div align="center">
