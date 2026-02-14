@@ -23,8 +23,8 @@ class Developer {
     location: string = "Sri Lanka 🇱🇰";
     
     languages: string[] = ["Java", "Python", "TypeScript", "JavaScript"];
-    frameworks: string[] = ["React", "Node.js", "Next.js", "Django"];
-    databases: string[] = ["MySQL", "MongoDB", "PostgreSQL", "Redis"];
+    frameworks: string[] = ["React", "Node.js", "Next.js"];
+    databases: string[] = ["MySQL", "MongoDB"];
     
     currentlyLearning: string = "AI/ML & Web3 🤖";
     hobbies: string[] = ["Coding", "Reading Tech Blogs", "Performing as an Artist"];
